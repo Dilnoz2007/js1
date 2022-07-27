@@ -1,7 +1,7 @@
 let num;
 let i = 0;
 while(i == 0){
-  num = +prompt('wwww')
+  num = +prompt('son kiriting')
   if(num == 0 || num == NaN){
   }else{
     let result = num * num * num;
